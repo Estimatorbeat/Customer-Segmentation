@@ -1,6 +1,6 @@
 ## PROJECT - MACHINE LEARNING
 
-In this project I have tried to demonstrate a customer segmentation model to help the retail company in developing targeted marketing strategies the use of Machine Learning in businesses for profit enhancement
+In this project I have tried to demonstrate a customer segmentation model to help the retail company in developing targeted marketing strategies with the use of Machine Learning in businesses for profit enhancement
 
 Unsupervised Learning(Clustering) is used to find the hidden data patterns or structures which can be used by an organiztion(like mall, shopping complexes etc) to target the right audience and hence increase profit margin.
 
